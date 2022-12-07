@@ -1,0 +1,15 @@
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\bin\Debug\chapitre1.exe.config
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\bin\Debug\chapitre1.exe
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\bin\Debug\chapitre1.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\OOP TPs.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.Properties.Resources.resources
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\OOP TPs.csproj.GenerateResource.Cache
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.exe
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.pdb
+C:\Users\Anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.Projet.LoginForm.resources
+C:\Users\Anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.Projet.ChangePin.resources
+C:\Users\Anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.Projet.RegisterForm.resources
+C:\Users\Anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.Projet.DepositForm.resources
+C:\Users\Anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.Projet.WithdrawForm.resources
+C:\Users\Anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.Projet.EmployeeForm.resources
+C:\Users\Anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.Projet.ClientForm.resources

@@ -1,0 +1,9 @@
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\bin\Debug\chapitre1.exe.config
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\bin\Debug\chapitre1.exe
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\bin\Debug\chapitre1.pdb
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.frmLogIN.resources
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.Properties.Resources.resources
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.csproj.GenerateResource.Cache
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.exe
+c:\users\anthony\documents\visual studio 2013\Projects\chapitre1\chapitre1\obj\Debug\chapitre1.pdb
